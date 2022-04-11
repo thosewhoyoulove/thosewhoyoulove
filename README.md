@@ -16,7 +16,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-23aaf2?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Stylus](https://img.shields.io/badge/Stylus-61DAFB?style=flat-square&logo=Stylus&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-f69220?style=flat-square&logo=pnpm&logoColor=white)
 
 
