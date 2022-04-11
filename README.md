@@ -1,4 +1,12 @@
-<!--
+###Welcome
+
+- 🔭 I’m currently studying on [hnust](https://www.hnust.edu.cn/)
+- 🌱 I’m currently learning front-end
+- ⚡ Interested in JavaScript,TypeScript,HTML,Css,Vue,Vite
+- 📫 Email:[2406001659@qq.com]
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thosewhoyoulove&show_icons=true&theme=tokyonight)
 
 
@@ -7,7 +15,6 @@
 
 
 
--->
 
 
 
