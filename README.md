@@ -29,8 +29,7 @@
 
 
 
-<div style='display: none'>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/thosewhoyoulove/thosewhoyoulove/output/github-contribution-grid-snake.svg)
-</div>
 
 
