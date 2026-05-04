@@ -48,12 +48,14 @@
 ### GitHub
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thosewhoyoulove&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thosewhoyoulove&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" alt="GitHub stats" src="./profile/stats.svg" />
+  <img height="165" alt="Top languages" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.demolab.com?user=thosewhoyoulove&theme=tokyonight&hide_border=true&date_format=Y%20M%20j" />
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=thosewhoyoulove&theme=tokyonight&hide_border=true&date_format=Y%20M%20j" />
+  </a>
 </p>
 
 ### Trophies
@@ -68,7 +70,8 @@
   <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thosewhoyoulove&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 </p>
 
-> 若统计数据未更新，多半是上游服务缓存或仓库为私有所致，稍后刷新即可。第三方卡片（Vercel 等）偶发限流时多刷新几次即可。
+> **Stats / 语言卡片**：已改为仓库内静态 SVG（每日自动更新 + 可手动运行 Workflow）。若仍不显示，请打开仓库 **Actions → Update README cards → Run workflow**。  
+> **Streak 等外链图**：依赖第三方服务，偶尔会因限流或网络短暂失败，可稍后刷新；连续不可用可看 [Streak FAQ 自托管说明](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/faq.md)。
 
 <details>
 <summary><strong>Contribution snake</strong>（需在仓库启用 <code>output</code> 分支 workflow）</summary>
