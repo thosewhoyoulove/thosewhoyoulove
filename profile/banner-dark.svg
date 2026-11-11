@@ -1,0 +1,63 @@
+<svg width="840" height="172" viewBox="0 0 840 172" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="thosewhoyoulove - Frontend Engineer">
+  <defs>
+    <linearGradient id="banner-bg-dark" x1="0" y1="0" x2="840" y2="172" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#131a24" />
+    </linearGradient>
+    <linearGradient id="banner-accent-dark" x1="0" y1="0" x2="280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="100%" stop-color="#39c5cf" />
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="839" height="171" rx="12" fill="url(#banner-bg-dark)" stroke="#30363d" />
+  <rect x="32" y="0.5" width="136" height="2.5" rx="1.25" fill="url(#banner-accent-dark)" />
+
+  <g><circle cx="620" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="620" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="620" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="620" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="620" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="620" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="620" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="620" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="620" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="636" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="636" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="636" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="636" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="636" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="636" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="636" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="636" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="636" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="652" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="652" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="652" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="652" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="652" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="652" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="652" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="652" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="652" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="668" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="668" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="668" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="668" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="668" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="668" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="668" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="668" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="668" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="684" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="684" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="684" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="684" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="684" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="684" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="684" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="684" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="684" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="700" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="700" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="700" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="700" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="700" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="700" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="700" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="700" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="700" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="716" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="716" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="716" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="716" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="716" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="716" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="716" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="716" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="716" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="732" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="732" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="732" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="732" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="732" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="732" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="732" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="732" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="732" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="748" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="748" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="748" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="748" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="748" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="748" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="748" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="748" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="748" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="764" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="764" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="764" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="764" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="764" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="764" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="764" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="764" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="764" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="780" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="780" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="780" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="780" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="780" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="780" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="780" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="780" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="780" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="796" cy="24" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="796" cy="40" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="796" cy="56" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="796" cy="72" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="796" cy="88" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="796" cy="104" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="796" cy="120" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="796" cy="136" r="1.2" fill="#58a6ff" opacity="0.14" /><circle cx="796" cy="152" r="1.2" fill="#58a6ff" opacity="0.14" /></g>
+
+  <text x="32" y="36" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" letter-spacing="0.8" fill="#58a6ff">FRONTEND ENGINEER  ·  ARCHITECTURE  ·  RUNTIME  ·  AI AGENT</text>
+
+  <g transform="translate(626, 20)">
+    <rect width="182" height="24" rx="12" fill="rgba(63, 185, 80, 0.14)" stroke="rgba(63, 185, 80, 0.4)" stroke-width="1" />
+    <circle cx="14" cy="12" r="3.5" fill="#3fb950" />
+    <text x="25" y="15.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', Ubuntu, sans-serif" font-size="11" font-weight="600" fill="#3fb950">Open to Frontend Roles</text>
+  </g>
+
+  <text x="32" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', Ubuntu, sans-serif" font-size="27" font-weight="700" fill="#e6edf3">Hi, I&apos;m thosewhoyoulove</text>
+
+  <text x="32" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', Ubuntu, sans-serif" font-size="13.5" font-weight="400" fill="#8b949e">深耕前端工程化与底层运行机制，持续构建 React 原理专栏、Headless 实时通信 SDK 与 TypeScript AI Agent 运行时。</text>
+
+  
+      <g transform="translate(32, 126)">
+        <rect width="89" height="24" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="44.5" y="15.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#8b949e">TypeScript</text>
+      </g>
+      <g transform="translate(129, 126)">
+        <rect width="96" height="24" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="48" y="15.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#8b949e">React 18/19</text>
+      </g>
+      <g transform="translate(233, 126)">
+        <rect width="55" height="24" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="27.5" y="15.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#8b949e">Vue 3</text>
+      </g>
+      <g transform="translate(296, 126)">
+        <rect width="68" height="24" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="34" y="15.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#8b949e">Next.js</text>
+      </g>
+      <g transform="translate(372, 126)">
+        <rect width="61" height="24" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="30.5" y="15.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#8b949e">WebRTC</text>
+      </g>
+      <g transform="translate(441, 126)">
+        <rect width="75" height="24" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="37.5" y="15.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#8b949e">AI Agent</text>
+      </g>
+      <g transform="translate(524, 126)">
+        <rect width="117" height="24" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="58.5" y="15.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#8b949e">Vite / Webpack</text>
+      </g>
+      <g transform="translate(649, 126)">
+        <rect width="75" height="24" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="37.5" y="15.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#8b949e">Monorepo</text>
+      </g>
+</svg>
